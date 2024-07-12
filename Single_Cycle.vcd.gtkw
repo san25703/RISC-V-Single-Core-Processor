@@ -1,0 +1,96 @@
+[*]
+[*] GTKWave Analyzer v3.3.108 (w)1999-2020 BSI
+[*] Thu Jul 11 14:52:41 2024
+[*]
+[dumpfile] "C:\Users\SANKET JAIN\RISC_V_Single_Cycle_Core\Single_Cycle.vcd"
+[dumpfile_mtime] "Thu Jul 11 14:48:29 2024"
+[dumpfile_size] 5088
+[savefile] "C:\Users\SANKET JAIN\RISC_V_Single_Cycle_Core\Single_Cycle.vcd.gtkw"
+[timestart] 0
+[size] 1920 973
+[pos] -1 -1
+*-6.163924 61 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Single_Cycle_Top_Tb.
+[treeopen] Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.
+[sst_width] 288
+[signals_width] 348
+[sst_expanded] 1
+[sst_vpaned_height] 285
+@28
+Single_Cycle_Top_Tb.clk
+Single_Cycle_Top_Tb.rst
+@800200
+-PC
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.PC_Module.PC[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.PC_Module.PC_NEXT[31:0]
+@1000200
+-PC
+@800200
+-Instruction Memory
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.instruction_memory.A[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.instruction_memory.RD[31:0]
+@1000200
+-Instruction Memory
+@800200
+-PC Adder
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.PC_Adder.a[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.PC_Adder.b[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.PC_Adder.b[31:0]
+@1000200
+-PC Adder
+@800200
+-Sign Extend
+@23
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Sign_Extend.In[31:0]
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Sign_Extend.Imm_Ext[31:0]
+@1000200
+-Sign Extend
+@800200
+-Register File
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Reg_file.A1[4:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Reg_file.A2[4:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Reg_file.A3[4:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Reg_file.RD1[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Reg_file.RD2[31:0]
+@28
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Reg_file.WE3
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Reg_file.WD3[31:0]
+@1000200
+-Register File
+@800200
+-ALU
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.alu.A[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.alu.B[31:0]
+@28
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.alu.ALUControl[2:0]
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.alu.Result[31:0]
+@1000200
+-ALU
+@800200
+-Data Memory
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.data_memory.A[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.data_memory.RD[31:0]
+@1000200
+-Data Memory
+@800200
+-Control Unit
+@28
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Control_Unit_Top.ALUControl[2:0]
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Control_Unit_Top.op[6:0]
+@28
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Control_Unit_Top.funct3[2:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top_Design_Top.Control_Unit_Top.RegWrite
+@1000200
+-Control Unit
+[pattern_trace] 1
+[pattern_trace] 0
