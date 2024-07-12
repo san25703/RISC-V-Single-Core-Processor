@@ -54,3 +54,5 @@ This single-cycle processor is designed to support the following instruction typ
 
 ### Testbench
 A comprehensive testbench is provided to simulate the processor's operation. The testbench initializes the clock and reset signals, and it provides a sequence of instructions to be executed by the processor. The simulation outputs can be viewed using waveform viewers like GTKWave to verify the correct operation of each module.
+
+![Simulation Results](Simulation Result.png)
